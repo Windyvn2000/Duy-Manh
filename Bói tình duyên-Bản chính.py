@@ -10,7 +10,7 @@ def boi_tinh_duyen(ten_nam, ten_nu):
     elif dem < 5:
         ket_qua = "em chi xem anh la thang ban than"
     else:
-        ket_qua = "hop nhau day"
+        ket_qua = "I love you"
     return ket_qua
 print("Nhap ten nam:")
 ten_nam = input()

@@ -7,7 +7,7 @@ def boi_tinh_duyen(ten_nam, ten_nu):
             dem += 1
     if dem == 0:
         ket_qua = "nguoi dung nuoc la"
-    elif dem < 3:
+    elif dem < 5:
         ket_qua = "em chi xem anh la thang ban than"
     else:
         ket_qua = "hop nhau day"
